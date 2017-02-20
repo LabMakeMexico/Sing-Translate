@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_31c6d8e5e38b6d4eefd8e843850600e9d2ebc165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7213f08ec76c3f9ad2787f2d6af14179adba66d0">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/instant-run_5700e5f3089f2653165e9d601599a0a79a76a83e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_cb9f01f926b677cb9e79871a28fa595566abed7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_f85ebf736dc6cece4250e88adbb029683761bcf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_28d11925d987ef213f590ccf483da9bf2bd75137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_df129877371510ad3bfbe93c77b9ae33fb7a2876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2625ac42ecb06c19d0f2e6b1f529895d1f0fc7d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_bb13db82806d971dd3031820ebf56109e455d831.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3b1ae1d07170d1c70e2447b610f984640e68abe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_b11ef6172aa78c3be2c0b5278c24e9160c63bf55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_e6a0cd94c8f3736cfa8e1d23ee294570350088dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_8edf134796d8551759b8e5d3ab1ed840e0042d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="178e41ead6422ef7beb0af353a6ce3f3ff808eaa">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b5187ea4d907b5cbc01da2a75a8eb9365d5148ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_20a40ab9489c0c91f2ca69dc27823e841652d8c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Documents/AndroidProjects/tools/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_6fe0fda2b44a9afda51068970097566e573ad533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_675b4522db6869641cebbe44e1b4f60e7da68fb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_cc4c963c4c9e0fc350916ec925dfd3028ae96e0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0b0b05c57cd4a8e00b5de13fc678cab2c58421fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="/Users/antonio18244/Downloads/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-25.0.1_616364903f2df0040bcc6f0db598118e62a315cd.jar" />
+    </item>
+
+</items>

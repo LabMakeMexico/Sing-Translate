@@ -21,6 +21,7 @@ import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
 import android.content.Intent;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -42,6 +43,7 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
+
 
 import com.example.android.common.logger.Log;
 
@@ -86,7 +88,9 @@ public class BluetoothChatFragment extends Fragment {
     int max_y;
     int min_y;
     boolean data_correct;
-    int error=6;
+    int error=7;
+
+
 
     /**
      * Name of the connected device
@@ -126,6 +130,7 @@ public class BluetoothChatFragment extends Fragment {
             Toast.makeText(activity, "Bluetooth is not available", Toast.LENGTH_LONG).show();
             activity.finish();
         }
+
     }
 
 
@@ -402,13 +407,15 @@ public class BluetoothChatFragment extends Fragment {
         if (data_correct) {
             //aqui se llamaran a metodos donde se compararan los datos obtenidos con los calculados para generar la traduccion
             System.out.println("entro al if");
-            if (a()){translateText.setText(" A ");
-                System.out.println("a");
-            }if(b()){translateText.setText(" B ");
-                System.out.println("b");
-            }if(c()){translateText.setText(" C ");
-                System.out.println("c");
-            }else {
+                if (a()){translateText.setText(" A ");
+                    System.out.println("a");
+                }if(b()){translateText.setText(" B ");
+                    System.out.println("b");
+                }if(c()){translateText.setText(" C ");
+                    System.out.println("c");
+                }if(d()){translateText.setText(" D ");
+                    System.out.println("d");
+                }else {
                // translateText.setText("no translate");
             }
         }
@@ -501,14 +508,82 @@ public class BluetoothChatFragment extends Fragment {
         }
         return false;}
     public boolean c() {
-        if (s1 >= (max_1/4)-3 && s1 <= (max_1/4)+3 & s2>= (max_2/4)-3 && s2 <= (max_2/4)+3 & s3 >= (max_3/4)-3 && s3 <= (max_3/4)+3 & s4 >= (max_4/4)-3 && s4 <= (max_4/4)+3 & s5 >= (max_5/4)-3 && s5 <= (max_5/4)+3) {
+        int rango1= (max_1-min_1)/4;
+        int rango2= (max_2-min_2)/4;
+        int rango3= (max_3-min_3)/4;
+        int rango4= (max_4-min_4)/4;
+        int rango5= (max_5-min_5)/4;
+
+        if (s1 >= min_1+rango1 && s1 <= (min_1+rango1)+3 &  s2 >= min_2+rango2 && s2 <= (min_2+rango2)+3  & s3 >= min_3+rango3 && s3 <= (min_3+rango3)+3 & s4 >= min_4+rango4 && s4 <= (min_4+rango4)+3 & s5 >= min_5+rango5 && s5 <= (min_5+rango5)+3) {
             return true;
         }
         return false;}
     public boolean d() {
-        if (s1 <= max_1 && s1 > max_1 - error & s2 >= min_2 && s2 <= min_2 + error & s3 <= max_3 && s3 > max_3 - error &s4 <= max_4 && s4 > max_4 - error & s5 <= max_5 && s5 > max_5 - error) {
+        if (s1 <= max_1 && s1 > max_1 - error-6  & s2 >= min_2 && s2 <= min_2 + error & s3 <= max_3 && s3 > max_3 - error &s4 <= max_4 && s4 > max_4 - error & s5 <= max_5 && s5 > max_5 - error) {
             return true;
         }
         return false;}
-
+    public boolean f(){
+        return false;
+    }
+    public boolean g(){
+        return false;
+    }
+    public boolean h(){
+        return false;
+    }
+    public boolean i(){
+        return false;
+    }
+    public boolean j(){
+        return false;
+    }
+    public boolean k(){
+        return false;
+    }
+    public boolean l(){
+        return false;
+    }
+    public boolean m(){
+        return false;
+    }
+    public boolean n(){
+        return false;
+    }
+    public boolean o(){
+        return false;
+    }
+    public boolean p(){
+        return false;
+    }
+    public boolean q(){
+        return false;
+    }
+    public boolean r(){
+        return false;
+    }
+    public boolean s(){
+        return false;
+    }
+    public boolean t(){
+        return false;
+    }
+    public boolean u(){
+        return false;
+    }
+    public boolean v(){
+        return false;
+    }
+    public boolean w(){
+        return false;
+    }
+    public boolean x(){
+        return false;
+    }
+    public boolean y(){
+        return false;
+    }
+    public boolean z(){
+        return false;
+    }
 }

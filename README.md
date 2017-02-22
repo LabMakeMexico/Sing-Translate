@@ -1,3 +1,5 @@
-# Sing-Translate
-Glove translator 
-/* hola soy jose antonio hernandez perez */
+# Sings-Translator
+Gloves translator 
+
+Una aplicacion que genera una conexcion bluetooth con un dispositivo mobile.
+
